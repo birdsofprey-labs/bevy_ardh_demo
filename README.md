@@ -15,5 +15,7 @@ git clone https://github.com/birdsofprey-labs/bevy_ardh_demo.git
 git clone https://github.com/birdsofprey-labs/bevy_ardh.git
 ```
 
+Ask my if something is not running.
+
 Todo:
 Lots of stuff
