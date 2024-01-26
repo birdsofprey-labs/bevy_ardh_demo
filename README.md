@@ -4,6 +4,7 @@ git clone https://github.com/birdsofprey-labs/bevy_rocky.git
 cargo run --example ncube --release
 ```
 clone and run following python script
+these scripts split the big texture into smaller per tile textures
 ```
 git clone https://github.com/birdsofprey-labs/bevy_rockpaperscissor.git
 > rps_par.sh
