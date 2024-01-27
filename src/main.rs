@@ -12,7 +12,7 @@ fn main() {
     .insert_resource(Msaa::Sample4)
     
     .add_plugins(
-        DefaultPlugins.set(AssetPlugin { file_path: "../assets".to_string(), ..default() }))
+        DefaultPlugins)//.set(AssetPlugin { file_path: "../assets".to_string(), ..default() }))
     .insert_resource(WireframeConfig {
         global: false,
         default_color: Color::WHITE,
